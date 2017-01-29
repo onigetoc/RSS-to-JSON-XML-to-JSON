@@ -16,9 +16,9 @@ echo $json;
 
 /*
 
-jQuery Example
+jQuery Example:
 
-$.getJSON('xml-to-json.php', function(data) { 
+$.getJSON('http://mywebsite.com/xml-to-json.php', function(data) { 
 	//do something
 });
 
